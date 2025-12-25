@@ -1,7 +1,32 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Diwakar%20Nagar%20🚀&fontSize=35&fontColor=fff&animation=fadeIn)
 
 # 💫 About Me:
-I am Diwakar Nagar, A passionate frontend developer and cyber security enthusiast from Shri Mata Vaishno Devi University, Katra, Jammu and Kashmir, India
+🚀 **Frontend Developer | 🛡️ Cybersecurity Enthusiast**
+
+I’m **Diwakar Nagar**, a passionate **Frontend Developer** and **Cybersecurity Enthusiast** from  
+**Shri Mata Vaishno Devi University (SMVDU)**, Katra, Jammu and Kashmir, India 🇮🇳.
+
+💡 I enjoy building **clean, responsive, and user-friendly web interfaces**, while also exploring  
+the world of **ethical hacking, security fundamentals, and secure system design**.
+
+---
+
+### 🔍 What I’m Focused On
+- 🎨 Crafting modern frontend applications with **HTML, CSS, JavaScript & React**
+- 🔐 Learning **cybersecurity concepts**, ethical hacking, and secure coding practices
+- ⚙️ Exploring **full-stack development** and real-world problem solving
+- 📚 Continuously learning and improving through hands-on projects
+
+---
+
+### 🎯 Interests
+- Frontend Web Development  
+- Cybersecurity & Ethical Hacking  
+- Secure Web Applications  
+- Open-source & Project-based Learning  
+
+---
+
 
 
 ## 🌐 Socials:
