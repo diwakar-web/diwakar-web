@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Nitin%20Raina%20🚀&fontSize=35&fontColor=fff&animation=fadeIn)
+
 # 💫 About Me:
 I am Diwakar Nagar, A passionate frontend developer , and cyber security enthusiast from Shri Mata Vaishno Devi University, Katra, Jammu and Kashmir, India
 
