@@ -6,7 +6,7 @@
 🚀 **Frontend Developer | 🛡️ Cybersecurity Enthusiast**
 
 I’m **Diwakar Nagar**, a passionate **Frontend Developer** and **Cybersecurity Enthusiast** from  
-**Shri Mata Vaishno Devi University (SMVDU)**, Katra, Jammu and Kashmir, India 🇮🇳.
+**Shri Mata Vaishno Devi University (SMVDU)**, Katra, Jammu and Kashmir, India.
 ---
 ### 🎯 Interests
 - Frontend Web Development  
