@@ -10,15 +10,6 @@ I’m **Diwakar Nagar**, a passionate **Frontend Developer** and **Cybersecurity
 the world of **ethical hacking, security fundamentals, and secure system design**.
 
 ---
-
-### 🔍 What I’m Focused On
-- 🎨 Crafting modern frontend applications with **HTML, CSS, JavaScript & React**
-- 🔐 Learning **cybersecurity concepts**, ethical hacking, and secure coding practices
-- ⚙️ Exploring **full-stack development** and real-world problem solving
-- 📚 Continuously learning and improving through hands-on projects
-
----
-
 ### 🎯 Interests
 - Frontend Web Development  
 - Cybersecurity & Ethical Hacking  
