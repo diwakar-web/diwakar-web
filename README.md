@@ -103,7 +103,6 @@ I’m **Diwakar Nagar**, a passionate **Frontend Developer** and **Cybersecurity
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=diwakar-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=diwakar-web&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
