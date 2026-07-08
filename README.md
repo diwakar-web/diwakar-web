@@ -5,7 +5,7 @@
   <img src="./Blue Green Geometric Company LinkedIn Banner.png" alt="Diwakar Nagar Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Diwakar Nagar</h1>
+<h1 align="center">Hi! I'm Diwakar Nagar</h1>
 
 <p align="center">
 <b>Computer Science Engineer • Full Stack Web Developer • Technical Blogger</b>
@@ -31,7 +31,7 @@
 
 </p>
 
-# 👨🏻‍💻 About Me
+# About Me
 
 ```js
 const diwakar = {
@@ -71,7 +71,7 @@ const diwakar = {
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -107,19 +107,19 @@ const diwakar = {
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏋️ **FitBox Sports** | Modern sports e-commerce website with authentication, payments and admin dashboard. |
-| ✈️ **Aeroxplore** | Aviation blog sharing articles on aircraft, military aviation, aerospace and history. |
-| ❤️ **CORA Health** | Healthcare platform with AI chatbot, reminders, doctor finder and secure records. |
-| 🎵 **Cyber Music Player** | Futuristic cyberpunk music player UI built with modern frontend technologies. |
+| **FitBox Sports** | Modern sports e-commerce website with authentication, payments and admin dashboard. |
+| **Aeroxplore** | Aviation blog sharing articles on aircraft, military aviation, aerospace and history. |
+| **CORA Health** | Healthcare platform with AI chatbot, reminders, doctor finder and secure records. |
+| **Music Player** | Futuristic cyberpunk music player UI built with modern frontend technologies. |
 
 ---
 
 
-# 🐍 Snake Eating Contributions
+# Snake Eating Contributions
 
 <p align="center">
 
@@ -129,7 +129,7 @@ const diwakar = {
 
 ---
 
-# 🏆 GitHub Summary
+# GitHub Summary
 
 <p align="center">
 
@@ -139,7 +139,7 @@ const diwakar = {
 
 ---
 
-# 💡 Quote
+# Quote
 
 <p align="center">
 
@@ -149,7 +149,7 @@ const diwakar = {
 
 ---
 
-# 📬 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -175,5 +175,5 @@ const diwakar = {
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile!
+⭐✨Thanks for visiting my profile!✨⭐
 </h3>
