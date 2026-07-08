@@ -1,8 +1,8 @@
-````md
+
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Diwakar Nagar Banner" width="100%">
+  <img src="./Blue Green Geometric Company LinkedIn Banner.png" alt="Diwakar Nagar Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Diwakar Nagar</h1>
