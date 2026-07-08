@@ -1,108 +1,221 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Diwakar%20Nagar%20&fontSize=35&fontColor=fff&animation=fadeIn)
+````md
+<!-- ======================= BANNER ======================= -->
 
-🚀 **Fullstack Web Developer | 🛡️ Cybersecurity Enthusiast**
+<p align="center">
+  <img src="./assets/banner.png" alt="Diwakar Nagar Banner" width="100%">
+</p>
 
-I’m **Diwakar Nagar**, a passionate **Frontend Developer** and **Cybersecurity Enthusiast** from  
-**Shri Mata Vaishno Devi University (SMVDU)**, Katra, Jammu and Kashmir, India.
+<h1 align="center">Hi 👋 I'm Diwakar Nagar</h1>
 
+<p align="center">
+<b>Computer Science Engineer • Full Stack Web Developer • Technical Blogger</b>
+</p>
 
+<p align="center">
+I build modern web applications, write about aviation & technology, and love creating digital experiences that make an impact.
+</p>
 
+<p align="center">
+<a href="https://diwakarnagar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel">
+</a>
 
+<a href="https://github.com/diwakar-web">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
 
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-### 🎯 Interests
-- Fullstack Web Development  
-- Cybersecurity & Ethical Hacking  
-- Secure Web Applications  
-- Open-source & Project-based Learning  
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 ---
 
+# 👨🏻‍💻 About Me
 
+```js
+const diwakar = {
 
+    name: "Diwakar Nagar",
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diwakar_nagar01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakar-nagar-829141273)
-[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/diwakar_nagar01)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diwakarrajeshnagar@gmail.com)
+    role: "Full Stack Developer",
 
+    education: "B.Tech Computer Science Engineering",
 
-# 🛠️ Tech Stack & Skills
+    location: "India",
 
+    interests: [
+        "Web Development",
+        "UI/UX",
+        "Open Source",
+        "Aviation",
+        "Technology Blogging"
+    ],
 
-## 🧑‍💻 Languages
+    currentlyWorkingOn: [
+        "FitBox Sports",
+        "Aeroxplore",
+        "Personal Portfolio"
+    ],
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    currentlyLearning: [
+        "Next.js",
+        "System Design",
+        "Backend Scaling"
+    ],
 
+    motto:
+        "Code with purpose. Learn endlessly. Build fearlessly."
+}
+```
 
-## 🌐 Web Technologies
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 🚀 Tech Stack
 
+### Languages
 
-## 📚 Libraries & Frameworks
+<p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python"/>
 
+</p>
 
-## 🧪 Data Science & Analysis
+### Frontend
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+<p>
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
 
-## 🗄️ Databases
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### Backend
 
+<p>
 
-## ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+</p>
 
+### Tools
 
-## 🎨 Design & Productivity
+<p>
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma,cloudflare"/>
 
+</p>
 
+---
 
-## 🤖 Hardware & Embedded Systems
+# 🌟 Featured Projects
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+| Project | Description |
+|---------|-------------|
+| 🏋️ **FitBox Sports** | Modern sports e-commerce website with authentication, payments and admin dashboard. |
+| ✈️ **Aeroxplore** | Aviation blog sharing articles on aircraft, military aviation, aerospace and history. |
+| ❤️ **CORA Health** | Healthcare platform with AI chatbot, reminders, doctor finder and secure records. |
+| 🎵 **Cyber Music Player** | Futuristic cyberpunk music player UI built with modern frontend technologies. |
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diwakar-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=diwakar-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Analytics
 
+<p align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwakar-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img width="48%" src="https://streak-stats.demolab.com?user=diwakar-web&theme=tokyonight&hide_border=true"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=diwakar-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=diwakar-web&icon=1&color=0)](https://visitcount.itsvg.in)
+<p align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar-web&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+> Configure **github-profile-3d-contrib** to generate this file.
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakar-web&theme=github_dark"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Success isn't built overnight. It's built every day."**
+
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://diwakarnagar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://github.com/diwakar-web">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=diwakar-web&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+````
