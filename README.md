@@ -12,29 +12,24 @@
 </p>
 
 <p align="center">
-I build modern web applications, write about aviation & technology, and love creating digital experiences that make an impact.
-</p>
 
-<p align="center">
 <a href="https://diwakarnagar.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/diwakar-web">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
 
 # 👨🏻‍💻 About Me
 
@@ -123,35 +118,6 @@ const diwakar = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwakar-web&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=diwakar-web&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar-web&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-> Configure **github-profile-3d-contrib** to generate this file.
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</p>
-
----
 
 # 🐍 Snake Eating Contributions
 
@@ -188,34 +154,26 @@ const diwakar = {
 <p align="center">
 
 <a href="https://diwakarnagar.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/diwakar-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=diwakar-web&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
 </h3>
-````
